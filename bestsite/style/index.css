@@ -1,0 +1,260 @@
+
+a { 
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+   } 
+
+a:hover{
+    
+    color:currentColor;
+
+}
+
+p{
+    word-break:normal;
+}
+
+
+#name {
+    margin-top: 1%;
+    margin-left: 5%;
+    width: 40%;
+    float: left;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.3em;
+}
+
+#auth {
+     word-break:break-all;
+    margin-top: 1%;
+    width:21%;
+    float: left;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.1em;
+    
+}
+
+#login {
+    word-break:break-all;
+    margin-top: 1%;
+    width:34%;
+    float: left;
+     font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.1em;
+    text-align: right;
+    padding-right: 5%;
+}
+
+#topbar{
+    float:left;
+    width: 100%;
+    
+}
+
+#articlesContent{
+    float:left;
+    width: 100%;
+}
+
+#content{
+    float:left;
+    width:100%;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.3em;
+    
+}
+
+#foot{
+    margin-bottom: 2%;
+    float:left;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.1em;
+    width: 100%;
+    
+}
+
+#center{
+    float: left;
+    padding-left: 10%;
+width: 90%;
+    
+
+    
+    
+}
+
+#images{
+    position: absolute;
+    float: left;
+    width:30%;
+    padding-left: 3%;
+    
+}
+
+#central{
+    text-align: center;
+}
+
+
+#rus{
+    text-align: center;
+    width:24%; 
+    float:left;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.2em;
+   
+    
+}
+#ukr{
+    text-align:center;
+    width:25%; 
+    float:left;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.2em;
+    
+   
+}
+#world{
+    text-align: center;
+   width:25%; 
+    float:left;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.2em;
+   
+}
+#sport{
+    text-align: center;
+    width:25%; 
+    float:left;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.2em;
+   
+    
+}
+
+
+
+
+
+#contentCenter{
+   width: 100%;
+}
+
+#titleAndDate{
+   width: 100%;
+    float: left;
+    padding-bottom: 3%;
+    padding-top: 2%;
+}
+#title{
+    width: 50%;
+    float: left;
+    text-align: center;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.6em;
+    color: black;
+}
+#date{
+    width: 50%;
+    float: left;
+    text-align: right;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.3em;
+     color: black;
+}
+
+
+#registration{
+    padding-top: 5%;
+    width: 40%;
+    float:left;
+}
+#regHead{
+    width:100%;
+    padding-bottom: 2%;
+    
+}
+#regCentral{
+    
+}
+#regFooter{
+    padding-top: 2%;
+    text-align: center;
+}
+#titleReg{
+    text-align: center;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.9em;
+    color:black;
+}
+#regFont{
+    text-align: center;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.4em;
+    color:black;
+}
+
+#loginFontUser{
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.4em;
+    color:black;
+    
+}
+
+#commentBar{
+    float:left;
+    width: 100%;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.4em;
+    color:black;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+#authNotification{
+     text-align: center;
+    float:left;
+    width: 100%;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.4em;
+    color:black;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+#comments{
+    float:left;
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 1%;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.0em;
+    color:black;
+    
+}
+#commentsLog{
+    float:left;
+    width: 50%;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.1em;
+    color:black;
+    padding-bottom: 1%;
+}
+#commentsDate{
+   
+    float:left;
+    width: 50%;
+    text-align: right;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.0em;
+    color:dimgray
+}
+
+#commentsContent{
+    float:left;
+    width: 100%;
+    font-family: "SEGOE UI", Arial, sans-serif;
+    font-size: 1.0em;
+    color:black;
+}
+
