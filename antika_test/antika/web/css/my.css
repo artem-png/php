@@ -1,0 +1,145 @@
+#loginForm{
+    padding-left: 30%;padding-right: 30%;width: 100%;margin-top: 10%
+}
+
+#title{
+    text-align: center;padding-bottom: 3%
+}
+
+#line{
+    width: 100%;border-top:1px solid #333336;
+}
+
+#leftTitle{
+    text-align: left;
+    width: 50%;
+    float: left;
+    padding-left: 15%;
+}
+
+#rightLogout{
+    text-align: right;
+    width: 50%;
+    float: left;
+    padding-right: 15%;
+}
+
+#mainImage{
+    color: white;
+    font-size: 2.3vmax;
+    padding-top: 7%;
+    background-image: url(../img/home-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    width: 100%;
+    height: 600px;
+
+
+}
+
+#regHref{
+    padding-left: 10%;padding-right: 10%;width: 100%;margin-top: 5%
+}
+
+#mainImage a{
+    color: white;
+
+    text-decoration: none;
+}
+
+#main{
+    background-color: #4f4f52;
+    height: 100px;
+    background-size: cover;
+    padding-top: 2%;
+}
+
+#main a{
+    font-size: 1.8vmax;
+    color: white;
+    text-decoration: none;
+
+}
+
+#result{
+    text-align: center;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+#information{
+    padding-top: 5%;
+}
+#columns{
+    width:100%;
+    padding-top: 8%;
+    padding-left: 20%;
+    padding-right: 20%;
+    height: 600px;
+}
+#column{
+    text-align: center;
+    float: left;
+    width: 33%;
+}
+
+#textInf{
+    padding-top: 2%;
+    font-size: 1.5vmax;
+}
+
+#footer{
+    text-align: center;
+    font-size: 2vmax;
+}
+
+#input{
+    font-size: 1vw;
+    color:black;
+    padding-top: 10%;
+    text-align: center;
+}
+
+
+
+#demographics_div_country_table{
+    max-width: 40%;
+    background-color: transparent;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+#rank{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 1.5vw;
+    width: 100%;
+    text-align: center;
+}
+
+#percent{
+    width: 100%;
+    font-size: 1.2vw;
+    text-align: center;
+    padding-left: 35%;
+}
+
+#map{
+    padding-left: 20%;
+    text-align: center;
+    width:100%;
+
+}
+
+#error{
+    color: black;
+    text-align: center;
+    font-size: 2vmax;
+}
+
+#url{
+    text-align: center;
+    color: black;
+    font-size: 2vmax;
+    width: 100%;
+}
